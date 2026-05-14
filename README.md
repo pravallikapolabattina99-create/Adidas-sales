@@ -40,33 +40,46 @@ Imported the Adidas sales dataset into Power BI Desktop from Excel  source.
 
 DAX Measure Creation
 Created calculated measures for:
+
 Total Sale  — Total Sales 1 = SUM('Data Sales Adidas'[Total Sales])
+
 Total Profit – Total Profit = SUM('Data Sales Adidas'[Operating Profit])
-Units Sold
+
 Margin % –  Margin % = [Total Profit]/[Total Sales 1]
+
 Average Price per Unit - Avg Price Per Unit = AVERAGE('Data Sales Adidas'[Price per Unit])
+
 Dashboard Development
 
 Designed dashboard visuals including:
 Two pages -Sales Overview ,Product and Geography Analysis
+
 KPI Cards
 Line Chart – Analyze sales  trends over time. 
+
 Funnel Chart – Analyze units sold by product category.
+
 Donut Chart — Analyze profit contribution by sales method. 
+
 Table Visual – Display detailed product-wise sales analysis. 
+
 Slicers→ Operating Margin
+
 Line chart - Total Profit by Product 
+
 Units Sold by Region (Tree Map)
+
 Column - Sales by Sales Method
+
 Bar  chart -  Sales by State
+
 These filters allow users to dynamically analyze data based on business requirements.
 
 Tools & Technologies Used--
-
-Power BI Desktop
-Power Query
-DAX (Data Analysis Expressions)
-Microsoft Excel
+Power BI Desktop,
+Power Query,
+DAX ,
+Microsoft Excel.
 
 Business Insights--
 
