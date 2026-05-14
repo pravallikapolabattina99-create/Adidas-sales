@@ -89,3 +89,9 @@ Online sales methods showed strong profit contribution.
 Products with higher operating margins improved profitability.
 Sales trends indicate fluctuating monthly performance.
 
+Dashboard pages-
+
+<img width="928" height="497" alt="adidas sales1" src="https://github.com/user-attachments/assets/dcd87609-4c2b-4b63-8f32-afdb073937b0" />
+<img width="928" height="497" alt="adidas product wise" src="https://github.com/user-attachments/assets/1b14bead-f552-4f85-98df-2b4e691a7797" />
+
+
